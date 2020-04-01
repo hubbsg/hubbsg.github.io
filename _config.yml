@@ -8,3 +8,6 @@
 # For Jekyll
 
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-include-cache
