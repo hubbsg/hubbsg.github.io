@@ -6,6 +6,9 @@
 title: Garrett Hubbs
 descriptions: About Me
 
+github:
+  is_project_page: false
+
 # For Jekyll
 
 theme: jekyll-theme-minimal
